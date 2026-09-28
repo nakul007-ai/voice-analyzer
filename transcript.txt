@@ -1,0 +1,1 @@
+We need to build the AI voice meeting analyzer. I will work on the backend API. I handle the machine learning part. Can we finish it by Friday? Yes, let test it on Thursday. Okay, I will send the API by Wednesday.

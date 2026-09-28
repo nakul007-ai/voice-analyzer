@@ -1,0 +1,35 @@
+{
+    "meeting_title": "AI Voice Meeting Analyzer Development",
+    "summary": "Development of AI voice meeting analyzer, backend API and machine learning part, testing planned for Thursday",
+    "agenda": [
+        "Backend API development",
+        "Machine learning part"
+    ],
+    "discussion_points": [
+        "Can we finish it by Friday?",
+        "Let's test it on Thursday",
+        "I will send the API by Wednesday"
+    ],
+    "decisions": [
+        "Yes, let's test it on Thursday"
+    ],
+    "action_items": [
+        {
+            "person": "Not specified",
+            "task": "Work on the backend API",
+            "deadline": "Not specified"
+        },
+        {
+            "person": "Not specified",
+            "task": "Send the API",
+            "deadline": "Wednesday"
+        }
+    ],
+    "testing_plan": [
+        {
+            "day": "Thursday",
+            "task": "Test it"
+        }
+    ],
+    "pending_questions": []
+}
